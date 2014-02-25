@@ -1,9 +1,11 @@
 SLAPT
 =========
 
-A Simple Light Application for Prolog Testing
+Simple Light Application for Prolog Testing
 
-SLAPT is a very simple test framework which allows a user to set up several interchangeable environment (a set of Prolog facts). It's lightweight and easy to use.
+Test driven development in Prolog is a pain. With obscure built in test frameworks that don't make much sense, you can feel hurt and confused, like you've just been slapped in the face. Do you feel slapped? Maybe try SLAPT.
+
+SLAPT is a very simple test framework which allows a developer to set up several interchangeable environment (a set of Prolog facts). It's lightweight and easy to use.
 
 Usage
 -----
