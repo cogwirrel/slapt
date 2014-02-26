@@ -1,7 +1,7 @@
 SLAPT
 =========
 
-Simple Light Application for Prolog Testing
+Simple Lightweight Application for Prolog Testing
 
 Test driven development in Prolog is a pain. With obscure built in test frameworks that don't make much sense, you can feel hurt and confused, like you've just been slapped in the face. Do you feel slapped? Maybe try SLAPT.
 
