@@ -1,5 +1,5 @@
 % SLAPT
-% Simple Light Application for Prolog Testing
+% Simple Lightweight Application for Prolog Testing
 
 % Run an individual test T
 % good indicates that we expect success
